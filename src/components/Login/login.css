@@ -1,0 +1,26 @@
+.loginmain{
+    margin: 100px auto;
+    height: 320px;
+    width: 480px;
+    box-shadow: 0px 0px 10px rgb(0, 203, 0);
+    display:flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 33px;
+    padding: 23px;
+    border-radius: 9px;
+    background-color: rgb(42, 45, 42);
+}
+.loginmain input{
+    padding:3px 8px;
+    border-radius: 2px;
+    color: green;
+    font-weight: bolder;
+    border-radius: 5px;
+}
+.loginmain .button{
+    padding: 7px 27px;
+    color: white;
+    background-color: rgb(26, 151, 26);
+    border-radius: 6px;
+}
