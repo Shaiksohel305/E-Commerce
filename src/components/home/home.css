@@ -28,3 +28,12 @@
  color: white;
  font-weight: bolder;
 }
+.imgbox{
+    margin: 20px auto;
+    height: 333px;
+    width: 1200px;
+    box-shadow: 0px 0px 10px black;
+    border-radius: 11px;
+    background-image: url("https://tse2.mm.bing.net/th?id=OIP.rBul9xaNcxB2j9ELFR6j6gHaD_&pid=Api&P=0&h=180");
+    background-size: cover;
+}
