@@ -1,0 +1,7 @@
+http://localhost:3000/products
+http://localhost:3000/addToCart
+http://localhost:3000/wishList
+http://localhost:3000/electronics
+http://localhost:3000/jewelery
+http://localhost:3000/mensclothing
+http://localhost:3000/womensclothing
