@@ -1,0 +1,31 @@
+.cartmain{
+    margin:100px auto;
+}
+.cartdata{
+    margin: 30px auto;
+    box-shadow: 0px 0px 10px black;
+    display: flex;
+    align-items: center;
+    height: 200px ;
+    width: 1000px;
+    text-align: center;
+    font-size: 12px;
+    padding: 22px;
+}
+.divcom{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    gap: 12px;
+}
+.cartbtn{
+    padding: 7px 23px;
+    color: rgb(255, 0, 0);
+    border: none;
+    border-radius: 8px ;
+    border: 2px solid red;
+}
+.cartbtn:hover{
+    background-color: red;
+    color: rgb(0, 0, 0);
+}

@@ -6,11 +6,15 @@
 }
 
 .cardcontainer{
-    margin:7px auto;
+    margin:47px auto;
     display:flex ;
     flex-wrap: wrap;
     justify-content: space-evenly;
-    gap: 28px;
+    gap: 35px;
+    background-color: rgb(99, 211, 194);
+    box-shadow: 0px 0px 10px black;
+    border-radius: 8px;
+    padding: 22px;
 }
 .card{
     width: 300px;
@@ -36,11 +40,13 @@
 }
 .imgbox{
     height: 288px;
-    width: 1200px;
+    width: 100%;
     box-shadow: 0px 0px 10px rgb(0, 106, 16);
     border-radius: 11px;
     background-image: url("https://tse2.mm.bing.net/th?id=OIP.rBul9xaNcxB2j9ELFR6j6gHaD_&pid=Api&P=0&h=180");
     background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 .btnmain{
     border-radius: 7px;

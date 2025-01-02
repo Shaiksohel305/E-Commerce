@@ -8,6 +8,7 @@ import Mens from './Pages/Mens/Mens'
 import Womens from './Pages/womens/Womens'
 import Home from './Pages/Home/Home'
 import ProductDetails from './Pages/ProductDetails/ProductDetails'
+import Addcart from './Pages/Addcart/Addcart'
 export default function App() {
   return (
     <div><Nav/>
@@ -17,6 +18,7 @@ export default function App() {
        <Route path='/jewelery'element={<Jewelery/>}/>
        <Route path='/mens'element={<Mens/>}/>
        <Route path='/womens'element={<Womens/>}/>
+       <Route path='/addcart' element={<Addcart/>}/>
        <Route path={`/productdetails/:id`} element={<ProductDetails/>}/>
       </Routes>
     </div>

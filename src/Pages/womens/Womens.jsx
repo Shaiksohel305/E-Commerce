@@ -6,7 +6,7 @@ export default function Womens() {
     <div>
         <Axios url="http://localhost:3000/womensclothing"
         maintitle="Womens"
-        bgImage="url(https://th.bing.com/th/id/OIP.wPj6YGdRoAKErgdT30JV2AHaH0?w=138&h=183&c=7&r=0&o=5&dpr=1.1&pid=1.7)" />
+        bgImage="url(https://th.bing.com/th/id/OIP.Ndku0xA-10mva-4FuqUDSQHaE6?w=248&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7)" />
     </div>
   )
 }
